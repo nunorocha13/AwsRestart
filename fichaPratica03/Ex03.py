@@ -1,7 +1,7 @@
 numero = 531
 
-while numero <= 750:
-    if numero % 2 != 0:
+while (numero <= 750):
+    if (numero % 2 != 0):
         print(numero)
-    numero += 1
+    numero =numero + 1
 
