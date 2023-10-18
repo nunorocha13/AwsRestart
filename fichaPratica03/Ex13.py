@@ -19,4 +19,3 @@ if(crescente):
     print("Crescente")
 else:
     print("Não crecente")
-    
